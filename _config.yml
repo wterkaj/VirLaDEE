@@ -1,7 +1,2 @@
-include:
-  - README.md
 
-
-
-theme: minima
-remote_theme: THEME-NAME
+theme: jekyll-theme-tactile
