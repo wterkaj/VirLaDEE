@@ -1,5 +1,5 @@
 # VirLaDEE Book
 
-1. Guidelines
-2. Curricula
+1. [Guidelines.md]
+2. [Curricula.md]
 3. [Virtual Labs](VirtualLabs.md)
