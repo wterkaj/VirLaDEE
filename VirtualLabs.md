@@ -1,5 +1,5 @@
 # Virtual Labs
 
-A. [IVAR](IVAR.md)
-B. [Smart Factory](SmartFactory.md)
-C. [IINFORM](IINFORM.md)
+A. [IVAR](VL/IVAR.md)
+B. [Smart Factory](VL/SmartFactory.md)
+C. [IINFORM](VL/IINFORM.md)
